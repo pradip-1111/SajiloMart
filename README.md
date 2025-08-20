@@ -1,7 +1,7 @@
 
-# SastaLite - Modern eCommerce Platform
+# SajiloMart - Modern eCommerce Platform
 
-Welcome to SastaLite, a feature-rich eCommerce application built with a modern, full-stack technology set. This project demonstrates a complete online shopping experience, from browsing products to a seamless checkout process, enhanced with generative AI capabilities for a personalized touch.
+Welcome to SajiloMart, a feature-rich eCommerce application built with a modern, full-stack technology set. This project demonstrates a complete online shopping experience, from browsing products to a seamless checkout process, enhanced with generative AI capabilities for a personalized touch.
 
 ## Core Features
 
