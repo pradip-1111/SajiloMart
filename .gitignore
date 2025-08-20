@@ -44,3 +44,5 @@ next-env.d.ts
 /SastaLite/.next
 /SastaLite/out
 /SastaLite/.env.local
+.env
+.env
