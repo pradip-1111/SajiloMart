@@ -17,7 +17,7 @@ Welcome to SajiloMart, a feature-rich eCommerce application built with a modern,
 
 ## Genkit AI Features
 
-SastaLite leverages Google's Genkit to provide intelligent, AI-powered features:
+SajiloMart leverages Google's Genkit to provide intelligent, AI-powered features:
 
 -   **Learning Zone**: An AI-powered content generator that creates helpful product guides, tips, and blog-style insights based on a selected product category, helping users make informed decisions.
 -   **Interactive Discount Spinner**: A fun, gamified experience where users can input their interests to generate a personalized discount spinner, with prizes and unique coupon codes created on the fly by AI.
